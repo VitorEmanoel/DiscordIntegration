@@ -1,4 +1,4 @@
-package me.vitoremanoel.discord.integration.discordapi.exceptions;
+package me.vitoremanoel.discordintegration.discordapi.exceptions;
 
 public class TokenUnAuthorizedException extends Exception {
 

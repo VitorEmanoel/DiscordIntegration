@@ -1,4 +1,4 @@
-package me.vitoremanoel.discord.integration.grants;
+package me.vitoremanoel.discordintegration.grants;
 
 public enum GrantType {
     AUTHORIZATION_CODE("authorization_code"),

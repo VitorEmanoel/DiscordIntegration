@@ -1,8 +1,8 @@
-package me.vitoremanoel.discord.integration;
+package me.vitoremanoel.discordintegration;
 
 import lombok.Getter;
-import me.vitoremanoel.discord.integration.grants.Grants;
-import me.vitoremanoel.discord.integration.scopes.Scopes;
+import me.vitoremanoel.discordintegration.grants.Grants;
+import me.vitoremanoel.discordintegration.scopes.Scopes;
 
 import java.net.MalformedURLException;
 import java.net.URL;

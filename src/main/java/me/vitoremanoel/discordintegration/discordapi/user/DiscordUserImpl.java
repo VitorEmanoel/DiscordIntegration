@@ -1,10 +1,10 @@
-package me.vitoremanoel.discord.integration.discordapi.user;
+package me.vitoremanoel.discordintegration.discordapi.user;
 
 import lombok.Getter;
-import me.vitoremanoel.discord.integration.discordapi.exceptions.TokenUnAuthorizedException;
-import me.vitoremanoel.discord.integration.models.DiscordToken;
-import me.vitoremanoel.discord.integration.models.User;
-import me.vitoremanoel.discord.integration.services.DiscordUserService;
+import me.vitoremanoel.discordintegration.discordapi.exceptions.TokenUnAuthorizedException;
+import me.vitoremanoel.discordintegration.models.DiscordToken;
+import me.vitoremanoel.discordintegration.models.User;
+import me.vitoremanoel.discordintegration.services.DiscordUserService;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
@@ -12,7 +12,6 @@ import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 import java.util.function.BiConsumer;
-import java.util.function.Function;
 
 class DiscordUserImpl implements DiscordUser{
 

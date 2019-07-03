@@ -1,10 +1,9 @@
 package me.vitoremanoel.discordintegration;
 
-import me.vitoremanoel.discord.integration.discordapi.DiscordAPI;
-import me.vitoremanoel.discord.integration.grants.GrantType;
-import me.vitoremanoel.discord.integration.grants.Grants;
-import me.vitoremanoel.discord.integration.DiscordIntegration;
-import me.vitoremanoel.discord.integration.scopes.Scopes;
+import me.vitoremanoel.discordintegration.discordapi.DiscordAPI;
+import me.vitoremanoel.discordintegration.grants.GrantType;
+import me.vitoremanoel.discordintegration.grants.Grants;
+import me.vitoremanoel.discordintegration.scopes.Scopes;
 
 public class DiscordIntegrationTest {
 

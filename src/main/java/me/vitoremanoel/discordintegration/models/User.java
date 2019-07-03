@@ -1,4 +1,4 @@
-package me.vitoremanoel.discord.integration.models;
+package me.vitoremanoel.discordintegration.models;
 
 import com.google.gson.annotations.SerializedName;
 import lombok.Data;

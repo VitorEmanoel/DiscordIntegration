@@ -1,8 +1,8 @@
-package me.vitoremanoel.discord.integration.models;
+package me.vitoremanoel.discordintegration.models;
 
 import com.google.gson.annotations.SerializedName;
 import lombok.Data;
-import me.vitoremanoel.discord.integration.scopes.Scopes;
+import me.vitoremanoel.discordintegration.scopes.Scopes;
 
 @Data
 public class DiscordToken {

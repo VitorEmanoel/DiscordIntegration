@@ -1,12 +1,12 @@
-package me.vitoremanoel.discord.integration.discordapi.authentication;
+package me.vitoremanoel.discordintegration.discordapi.authentication;
 
-import me.vitoremanoel.discord.integration.DiscordIntegration;
-import me.vitoremanoel.discord.integration.discordapi.exceptions.TokenInvalidException;
-import me.vitoremanoel.discord.integration.discordapi.exceptions.TokenUnAuthorizedException;
-import me.vitoremanoel.discord.integration.grants.GrantType;
-import me.vitoremanoel.discord.integration.scopes.Scopes;
-import me.vitoremanoel.discord.integration.services.DiscordAuthenticationService;
-import me.vitoremanoel.discord.integration.models.DiscordToken;
+import me.vitoremanoel.discordintegration.DiscordIntegration;
+import me.vitoremanoel.discordintegration.discordapi.exceptions.TokenInvalidException;
+import me.vitoremanoel.discordintegration.discordapi.exceptions.TokenUnAuthorizedException;
+import me.vitoremanoel.discordintegration.grants.GrantType;
+import me.vitoremanoel.discordintegration.scopes.Scopes;
+import me.vitoremanoel.discordintegration.services.DiscordAuthenticationService;
+import me.vitoremanoel.discordintegration.models.DiscordToken;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

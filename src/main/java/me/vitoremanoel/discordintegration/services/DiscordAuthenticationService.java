@@ -1,6 +1,6 @@
-package me.vitoremanoel.discord.integration.services;
+package me.vitoremanoel.discordintegration.services;
 
-import me.vitoremanoel.discord.integration.models.DiscordToken;
+import me.vitoremanoel.discordintegration.models.DiscordToken;
 import retrofit2.Call;
 import retrofit2.http.*;
 

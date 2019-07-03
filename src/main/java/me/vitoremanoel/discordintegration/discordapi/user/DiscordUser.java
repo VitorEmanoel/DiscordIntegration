@@ -1,7 +1,7 @@
-package me.vitoremanoel.discord.integration.discordapi.user;
+package me.vitoremanoel.discordintegration.discordapi.user;
 
-import me.vitoremanoel.discord.integration.models.DiscordToken;
-import me.vitoremanoel.discord.integration.models.User;
+import me.vitoremanoel.discordintegration.models.DiscordToken;
+import me.vitoremanoel.discordintegration.models.User;
 
 import java.util.function.BiConsumer;
 

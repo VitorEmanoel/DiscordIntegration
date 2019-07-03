@@ -1,4 +1,4 @@
-package me.vitoremanoel.discord.integration.scopes;
+package me.vitoremanoel.discordintegration.scopes;
 
 import java.util.List;
 

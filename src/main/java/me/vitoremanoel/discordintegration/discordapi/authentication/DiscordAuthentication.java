@@ -1,11 +1,10 @@
-package me.vitoremanoel.discord.integration.discordapi.authentication;
+package me.vitoremanoel.discordintegration.discordapi.authentication;
 
-import me.vitoremanoel.discord.integration.DiscordIntegration;
-import me.vitoremanoel.discord.integration.grants.GrantType;
-import me.vitoremanoel.discord.integration.models.DiscordToken;
+import me.vitoremanoel.discordintegration.DiscordIntegration;
+import me.vitoremanoel.discordintegration.grants.GrantType;
+import me.vitoremanoel.discordintegration.models.DiscordToken;
 
 import java.util.function.BiConsumer;
-import java.util.function.Function;
 
 
 public interface DiscordAuthentication {
